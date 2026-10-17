@@ -1,0 +1,8 @@
+# История цен и готовые отчёты не публикуем
+data/
+reports/
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
